@@ -1,4 +1,4 @@
-# Create YOwn Chatbot Website with Open Source LLMs
+# Create Your Own Chatbot Website with Open Source LLMs
 Create a chatbot website using LLMs and Flask Python LLMs (Large Language Models) are used for training data and translating text so that it can be understood. Flask is used for web routing in python. 
 
 The flow of the process is :
